@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "notes": "Inicia sesión con Google sin configurar nada y el título Notes se ve igual en todos los Mac.",
-  "dmg": "https://github.com/ica-design/icafy-updates/releases/download/v1.0.1/iCafy-1.0.1.dmg",
+  "version": "1.0.2",
+  "notes": "El botón Buscar ahora te muestra si hay versión nueva y la instala.",
+  "dmg": "https://github.com/ica-design/icafy-updates/releases/download/v1.0.2/iCafy-1.0.2.dmg",
   "page": "https://github.com/ica-design/icafy-updates/releases/latest"
 }
